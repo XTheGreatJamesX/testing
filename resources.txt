@@ -3,5 +3,14 @@
     "drps":true,
     "rlg_main":true,
     "talights":true,
+    "soundpack":true,
+    "soundpack2":true,
+    "soundpack5":true,
+    "ssirens":true,
+    "riley":true,
+    "eup-stream":true,
+    "eup-stream2":true,
+    "eup-civ":true,
+    "sv_textures":true,
     "avpack":true
 }
