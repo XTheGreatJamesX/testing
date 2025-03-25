@@ -12,5 +12,7 @@
     "eup-stream2":true,
     "eup-civ":true,
     "sv_textures":true,
+    "fdpack":true,
+    "flashlight":true,
     "avpack":true
 }
