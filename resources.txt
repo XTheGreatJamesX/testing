@@ -1,7 +1,7 @@
 {
-    'antenna',
-    'drps',
-    'rlg_main',
-    'talights',
-    'avpack',
+    "antenna":true,
+    "drps":true,
+    "rlg_main":true,
+    "talights":true,
+    "avpack":true
 }
