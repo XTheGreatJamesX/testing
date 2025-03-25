@@ -32,5 +32,9 @@
     "polc8z06":true,
     "14veyronms":true,
     "21chironps":true,
+    "polschafter3":true,
+    "polschafter3lb":true,
+    "20ltz":true,
+    "20rst":true,
     "22chironss":true
 }
