@@ -32,5 +32,5 @@
     "polc8z06":true,
     "14veyronms":true,
     "21chironps":true,
-    "22chironss":true,
+    "22chironss":true
 }
